@@ -5,7 +5,7 @@
             "Sid": "VisualEditor0",
             "Effect": "Allow",
             "Action": "iam:EnableMFADevice",
-            "Resource": "arn:aws:iam::327559849101:user/*"
+            "Resource": "arn:aws:iam::3276559849101:user/*"
         }
     ]
 }
